@@ -92,3 +92,8 @@ From your uploaded PDF, the report looks like this:
    ```
 4. The PDF file `sales_report.pdf` will be created in your current folder.
 
+
+
+##OUTPUT:
+[sales_report.pdf](https://github.com/user-attachments/files/21312702/sales_report.pdf)
+
